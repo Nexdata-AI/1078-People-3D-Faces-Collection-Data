@@ -1,8 +1,10 @@
 # 1078-People-3D-Faces-Collection-Data
-https://www.datatang.ai/datasets/956
+
 
 ## Description
 1,078 People 3D Faces Collection Data. The collection device is Realsense SR300. Each subject was collected once a week, 6 times in total, so the time span is 6 weeks. The number of videos collected for one subject is 16. The dataset can be used for tasks such as 3D face recognition.
+
+For more details, please refer to the link: https://bit.ly/3C5LJLr
 
 ## Data size
 1,078 people
@@ -33,3 +35,6 @@ no sensitive information
 
 ## Accuracy
 the accuracy of face action exceeds 97%,  the accuracy of label exceeds 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
