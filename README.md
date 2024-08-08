@@ -4,7 +4,7 @@
 ## Description
 1,078 People 3D Faces Collection Data. The collection device is Realsense SR300. Each subject was collected once a week, 6 times in total, so the time span is 6 weeks. The number of videos collected for one subject is 16. The dataset can be used for tasks such as 3D face recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/956?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/956?source=Github
 
 
 ## Data size
